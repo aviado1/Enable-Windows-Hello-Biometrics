@@ -4,7 +4,7 @@ This script enables Windows Hello and Biometrics settings via registry keys and 
 
 ## Download Script
 
-You can download the PowerShell script [here](https://github.com/aviado1/Enable-WindowsHelloBiometrics/raw/main/Enable-WindowsHelloBiometrics.ps1).
+You can download the PowerShell script [here](https://github.com/aviado1/Enable-Windows-Hello-Biometrics).
 
 ## Author
 
